@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scripts": {
     "elm": "elm",
-    "test": "elm-test && elm make --docs=docs.json"
+    "test": "elm make --docs=docs.json"
   },
   "author": "shun@getto.systems",
   "license": "MIT",
